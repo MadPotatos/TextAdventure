@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d502cf1fa28279428c4c4e9d74f637a, type: 3}
+  m_Name: B1. Encounter
+  m_EditorClassIdentifier: 
+  storyText: 'You walk outside. It''s dark and full of the smell of blood
+
+
+    "I
+    don''t like where this is going"
+
+
+    You encounter 3 strange looking dogs .
+    Flesh fall off their body . They looks hungry, likes have been raised by a vegan,
+    hunger for meat.
+
+
+    1. Go back to the clinic and shut the door
+
+
+    2. Run
+    through them
+
+
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: afab7f13ca582bf45ba9bde5ff6e4ba4, type: 2}
+  - {fileID: 11400000, guid: 7e6ab5470ae3a6a4aa161cff7d93f99a, type: 2}

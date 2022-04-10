@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d502cf1fa28279428c4c4e9d74f637a, type: 3}
+  m_Name: A5. Weird question
+  m_EditorClassIdentifier: 
+  storyText: "\" I don't like crowded place. And it's convenient to bury people whom
+    I can't save . You were lucky that I didn't have to bury you. You were badly
+    wounded when my sister brought you here.\r\n\r\n She also said \"He will do anything
+    to go outside so don't try to stop him\"\r\n\"\r\n\r\n1. \" I'm looking for a
+    white hair woman \" "
+  nextStates:
+  - {fileID: 11400000, guid: 7087db5f4dc196943ae6b37d53928875, type: 2}
